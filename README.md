@@ -1,6 +1,7 @@
 Ft_printf
 
-Parce que ft_putnbr() et ft_putstr(), c’est pas assez
+Parce que ft_putnbr() et ft_putstr(), c’est pas assez.
+
 Ce projet est assez direct. Vous devez recoder printf.
 
 
