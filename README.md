@@ -1,4 +1,6 @@
-Ft_printf
+**Ft_printf**
+
+[![bleroy's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2403751)](https://github.com/JaeSeoKim/badge42)
 
 Parce que ft_putnbr() et ft_putstr(), c’est pas assez.
 
